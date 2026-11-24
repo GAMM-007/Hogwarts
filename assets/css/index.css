@@ -1,0 +1,44 @@
+.campus-img {
+width: auto;
+height: auto;}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.container-1{
+    display: flex;
+    width: auto;
+    height: auto;
+}
+
+.container-1 img {
+    width: auto;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: 0.8;
+    transition: 0.5s ease;
+}
+
+.container-1 img:hover {
+cursor: crosshair;
+width: 300px;
+opacity: 1;
+}
+
+.container-houses {
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+    text-align: center;
+}
+
+.container-2 {
+    display: flex;
+    gap: 1rem;
+}
+
+.container-2 h2 {
+    text-align:center;
+}

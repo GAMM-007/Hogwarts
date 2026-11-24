@@ -1,0 +1,56 @@
+@import url(nav.css);
+@import url(index.css);
+@import url(footer.css);
+@import url(Gryffindor.css);
+
+:root {
+    --white: #ffff;
+    --black: #0000;
+    --M1-color: #2B1A12;
+    --M2-color: #8D6B4E;
+    --M3-color: #66442C;
+    --M4-color: #D3C7B9;
+    --M5-color: #B3571D;
+    --Gr1-color: #710912;
+    --Gr2-color: #0D0D0D;
+    --Gr3-color: #C28D39;
+    --Gr4-color: #362822;
+    --Gr5-color: #EFE5D2;
+    --Sl1-color: #1A472A;
+    --Sl2-color: #2A623D;
+    --Sl3-color: #5D5D5D;
+    --Sl4-color: #AAAAAA;
+    --Hu1-color: #ECB939;
+    --Hu2-color: #F0C75E;
+    --Hu3-color: #726255;
+    --Hu4-color: #322E29;
+    --Rv1-color: #0E1A40;
+    --Rv2-color: #222F5B;
+    --Rv3-color: #946B2D; 
+}
+
+body {
+    background-color: var(--M1-color);
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    color: var(--M4-color);
+    text-align: center;
+}
+h2 {
+    color: var(--M4-color);
+    text-align: center;
+}
+
+p {
+    color: var(--M4-color);
+    text-align: center;
+}
+
+a {
+    color: var(--Gr1-color);
+}
+
+li {
+    list-style: none;
+}

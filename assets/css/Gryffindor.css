@@ -1,0 +1,16 @@
+.container-gr {
+    display: flex;
+}
+
+.box {
+    padding: 4rem;
+}
+.Gr-img {
+    width: 900px;
+    height: auto;
+    object-fit: cover;
+}
+
+.col p {
+    text-align: justify;
+}
