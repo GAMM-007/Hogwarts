@@ -1,0 +1,45 @@
+.container-hp {
+    display: grid;
+    place-items: center;
+}
+
+.hp-img {
+    width: 900px;
+    height: 300px;
+    object-fit: cover;
+}
+    .hpbox{
+    background-color: var(--Hu1-color);
+    height: 100px;
+    width: 200px;
+    margin-left: 500px;
+}
+
+.hpbox2 {
+background-color: var(--Hu3-color);
+height: 200px;
+width: 250px;
+margin: 50px 50px 50px 190px;
+border-radius: 12px;
+}
+
+.hpcol p {
+    text-align: justify;
+}
+
+.container-1 img {
+    width: 200px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: 0.8;
+    transition: 0.5s ease;
+}
+
+.hpcontainer-degrees {
+    display: flex;
+    list-style: none;
+    gap: 0.5rem;
+    text-align: center;
+    background-color: var(--Gr2-color);
+}
+

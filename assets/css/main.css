@@ -2,6 +2,8 @@
 @import url(index.css);
 @import url(footer.css);
 @import url(Gryffindor.css);
+@import url(Slytherin.css);
+@import url(Hufflepuff.css);
 
 :root {
     --white: #ffff;
@@ -47,10 +49,21 @@ p {
     text-align: center;
 }
 
-a {
-    color: var(--Gr1-color);
+a {color: var(--Gr1-color);}
+
+i {color: var(--Gr1-color);}
+
+li {list-style: none;}
+
+body.Sl {
+    a { color: var(--Sl3-color);}
+    i {color: var(--Sl4-color);}
 }
 
-li {
-    list-style: none;
+body.Hu {
+    a {color: var(--Hu1-color);}
+    i {color: var(--black);}
+    h2 { color: var(--Gr5-color); 
+         text-align: center;
+} 
 }

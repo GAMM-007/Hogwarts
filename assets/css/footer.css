@@ -20,11 +20,18 @@ i {
     color: var(--Gr1-color);
 }
 
-a {
-    color: var(--black);
-    font-size: 18px;
+body.Sl {
+    .footer-container {
+    background-color: var(--Sl1-color);
+    padding: 10px;
+    color: var(--Gr2-color);}
 }
 
-a:hover {
-    color: var(--white);
+body.Hu {
+.footer-container {
+    background-color: var(--Hu1-color);
+    padding: 10px;
+    color: var(--Gr2-color);}
+
+i {color: var(--black);}
 }
