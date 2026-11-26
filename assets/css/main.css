@@ -4,6 +4,9 @@
 @import url(Gryffindor.css);
 @import url(Slytherin.css);
 @import url(Hufflepuff.css);
+@import url(Ravenclaw.css);
+@import url(history.css);
+@import url(houses.css);
 
 :root {
     --white: #ffff;
@@ -66,4 +69,10 @@ body.Hu {
     h2 { color: var(--Gr5-color); 
          text-align: center;
 } 
+}
+body.Rv {
+p {color: var(--Sl4-color);}
+h2 {color: var(--Rv3-color)}
+a {color: black;}
+i {color: var(--Rv2-color);}
 }

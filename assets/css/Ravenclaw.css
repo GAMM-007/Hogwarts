@@ -1,0 +1,46 @@
+.container-rv {
+    display: grid;
+    place-items: center;
+}
+
+.rv-img {
+    width: 900px;
+    height: 300px;
+    object-fit: cover;
+}
+    .rvbox{
+    background-color: var(--Rv2-color);
+    height: 100px;
+    width: 200px;
+    margin-left: 500px;
+    border-radius: 12px;
+}
+
+.rvbox2 {
+background-color: var(--Rv3-color);
+height: 165px;
+width: 250px;
+margin: 50px 50px 50px 190px;
+border-radius: 12px;
+}
+
+.rvcol p {
+    text-align: justify;
+}
+
+.container-1 img {
+    width: 200px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: 0.8;
+    transition: 0.5s ease;
+}
+
+.rvcontainer-degrees {
+    display: flex;
+    list-style: none;
+    gap: 0.5rem;
+    text-align: center;
+    background-color: var(--Gr2-color);
+}
+

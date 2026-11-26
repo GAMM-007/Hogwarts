@@ -77,8 +77,11 @@ background-color: var(--Hu2-color);
     transition: 
     color 0.2s ease, background-color 0.2s ease;
     }
-.nav-link:hover, .nav.link:focus-visible {
-    color:var(--black);
-    outline: none;
+    .nav-link:hover{
+        color: var(--Hu3-color);
+    }
 }
-}
+body.Rv {
+    .nav-link:hover{
+        color: var(--Rv2-color);
+} }

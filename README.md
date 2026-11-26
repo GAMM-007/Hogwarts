@@ -7,3 +7,8 @@ To next session (Maybe tomorrow):
 Fix little details on hufflepuff.
 Start and finish Ravenclaw.
 Start and finish with history, contact, info and houses.
+
+<h1>Second quote</h1>
+I'll be back (iv not got power light)
+
+i've finished ravenclaw, hufflepuff, history and houses, tomorrow i must to start and finish with info, contact, the degress and submit the repo to vercel.
