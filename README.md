@@ -12,3 +12,6 @@ Start and finish with history, contact, info and houses.
 I'll be back (iv not got power light)
 
 i've finished ravenclaw, hufflepuff, history and houses, tomorrow i must to start and finish with info, contact, the degress and submit the repo to vercel.
+
+<h1>Third Quote</h1>
+it,s friday, 2:26 PM, yesterday ive busy with college. Nah, I'd win.
