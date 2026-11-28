@@ -9,6 +9,7 @@
 @import url(houses.css);
 @import url(info.css);
 @import url(degrees.css);
+@import url(responsive.css);
 
 :root {
     --white: #ffff;

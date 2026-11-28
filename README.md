@@ -18,3 +18,5 @@ it,s friday, 2:26 PM, yesterday ive busy with college. Nah, I'd win.
 
 <h1>Quarte Quote</h1>
 it;s friday, 11:17 PM, i've finished all, only I need to do the responsive, but idk what to do, im a little much tired, i submit the repo to vercel, its alright tbh. now theres no energy, maybe i do some repos tomorrow or when the electrycity comes (My lap is dying)
+
+<h1>Quote number 5</h1>
