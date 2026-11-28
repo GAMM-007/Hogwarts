@@ -7,6 +7,8 @@
 @import url(Ravenclaw.css);
 @import url(history.css);
 @import url(houses.css);
+@import url(info.css);
+@import url(degrees.css);
 
 :root {
     --white: #ffff;
@@ -61,11 +63,14 @@ li {list-style: none;}
 body.Sl {
     a { color: var(--Sl3-color);}
     i {color: var(--Sl4-color);}
+    p {color: var(--Sl4-color);}
+    h2 {color: var(--Sl4-color);}
+    background-color: black;
 }
 
 body.Hu {
     a {color: var(--Hu1-color);}
-    i {color: var(--black);}
+    i {color: var(--Hu1-color);}
     h2 { color: var(--Gr5-color); 
          text-align: center;
 } 
@@ -73,6 +78,10 @@ body.Hu {
 body.Rv {
 p {color: var(--Sl4-color);}
 h2 {color: var(--Rv3-color)}
-a {color: black;}
+a {color: var(--Rv2-color);}
 i {color: var(--Rv2-color);}
+}
+
+body.inf{
+    p {text-align: justify;}
 }

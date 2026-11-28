@@ -36,7 +36,8 @@ opacity: 1;
 
 .container-2 {
     display: flex;
-    gap: 1rem;
+    justify-content: center;
+    gap: 3rem;
 }
 
 .container-2 h2 {

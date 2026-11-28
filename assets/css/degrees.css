@@ -1,0 +1,133 @@
+.dgrcol {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+}
+.infobox1 {
+     background-color: var(--Gr1-color);
+    height: 50px;
+    width: 100px;
+    margin-left: 550px;
+    border-radius: 12px;
+}
+.infobox1-a {
+   background-color: var(--Gr1-color);
+    height: 2em;
+    width: 6em;
+    margin-left: 16em;
+    border-radius: 12px;
+}
+.infobox1-b {
+   background-color: var(--Gr1-color);
+    height: 2.5em;
+    width: 8em;
+    margin-left: 15em;
+    border-radius: 12px;
+}
+.infobox2 {
+background-color: var(--Gr4-color);
+height: 180px;
+width: 250px;
+margin: 50px 50px 50px 190px;
+border-radius: 12px;
+}
+.slogan {
+    font-size: 28px;
+    font-style: italic;
+}
+body.Sl {
+
+.infobox2 {
+background-color: var(--Sl1-color);
+height: 180px;
+width: 250px;
+margin: 50px 50px 50px 190px;
+border-radius: 12px;
+}
+.infobox1 {
+     background-color: var(--Sl1-color);
+    height: 50px;
+    width: 100px;
+    margin-left: 550px;
+    border-radius: 12px;
+}
+
+.infobox1-a {
+   background-color: var(--Sl1-color);
+    height: 2em;
+    width: 6em;
+    margin-left: 16em;
+    border-radius: 12px;
+}
+
+.infobox1-b {
+   background-color: var(--Sl1-color);
+    height: 2.5em;
+    width: 8em;
+    margin-left: 15em;
+    border-radius: 12px;
+}
+
+}
+body.Hu {
+.infobox2 {
+background-color: var(--Hu1-color);
+height: 180px;
+width: 250px;
+margin: 50px 50px 50px 190px;
+border-radius: 12px;
+}
+.infobox1 {
+     background-color: var(--Hu1-color);
+    height: 50px;
+    width: 100px;
+    margin-left: 550px;
+    border-radius: 12px;
+}
+.infobox1-a {
+   background-color: var(--Hu1-color);
+    height: 2em;
+    width: 6em;
+    margin-left: 16em;
+    border-radius: 12px;
+}
+.infobox1-b {
+   background-color: var(--Hu1-color);
+    height: 2.5em;
+    width: 8em;
+    margin-left: 15em;
+    border-radius: 12px;
+}
+}
+body.Rv {
+
+.infobox2 {
+background-color: var(--Rv1-color);
+height: 180px;
+width: 250px;
+margin: 50px 50px 50px 190px;
+border-radius: 12px;
+}
+.infobox1 {
+     background-color: var(--Rv1-color);
+    height: 50px;
+    width: 100px;
+    margin-left: 550px;
+    border-radius: 12px;
+}
+
+.infobox1-a {
+   background-color: var(--Rv1-color);
+    height: 2em;
+    width: 6em;
+    margin-left: 16em;
+    border-radius: 12px;
+}
+
+.infobox1-b {
+   background-color: var(--Rv1-color);
+    height: 2.5em;
+    width: 8em;
+    margin-left: 15em;
+    border-radius: 12px;
+} }

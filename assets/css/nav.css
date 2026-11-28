@@ -83,5 +83,5 @@ background-color: var(--Hu2-color);
 }
 body.Rv {
     .nav-link:hover{
-        color: var(--Rv2-color);
+        color: black;
 } }
